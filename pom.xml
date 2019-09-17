@@ -122,7 +122,7 @@
         <artifactId>x</artifactId>
         <version>1.0</version>
         <scope>system</scope>
-        <systemPath>C:/jars/New_JT400/jt400.jar</systemPath>
+        <systemPath>${basedir}/src/main/webapp/WEB-INF/lib/jt400.jar</systemPath>
     </dependency>
     <dependency>
 		    <groupId>org.json</groupId>
