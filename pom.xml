@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.smithdrug</groupId>
 	<artifactId>SmithUserAccountService</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.4</version>
 	<name>SmithUserAccountService</name>
 	<description>SmithDrug UserAccountService WebServices</description>
 <packaging>war</packaging>
